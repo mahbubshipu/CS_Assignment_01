@@ -1,0 +1,16 @@
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\Palindrome.exe
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\Palindrome.deps.json
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.json
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\Palindrome.runtimeconfig.dev.json
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\Palindrome.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\ref\Palindrome.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\bin\Debug\net5.0\Palindrome.pdb
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.csproj.AssemblyReference.cache
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfoInputs.cache
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.AssemblyInfo.cs
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.csproj.CoreCompileInputs.cache
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\ref\Palindrome.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.pdb
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Palindrome\obj\Debug\net5.0\Palindrome.genruntimeconfig.cache
