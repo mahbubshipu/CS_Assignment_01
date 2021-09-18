@@ -8,9 +8,13 @@ namespace Task_04
 {
     public class Product : Item
     {
-        public override void GetDiscount(double originalPrice)
+        public override double GetDiscount(double originalPrice)
         {
             throw new NotImplementedException();
+        }
+        public Product(double Price) : base(Price)
+        {
+
         }
     }
 }

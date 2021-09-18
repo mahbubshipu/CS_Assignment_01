@@ -8,9 +8,13 @@ namespace Task_04
 {
     public class GiftCard : Item
     {
-        public override void GetDiscount(double originalPrice)
+        public override double GetDiscount(double originalPrice)
         {
             throw new NotImplementedException();
+        }
+        public GiftCard(double Price) : base(Price)
+        {
+
         }
     }
 }

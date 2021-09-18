@@ -1,0 +1,16 @@
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\Task_05.exe
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\Task_05.deps.json
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\Task_05.runtimeconfig.json
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\Task_05.runtimeconfig.dev.json
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\Task_05.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\ref\Task_05.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\bin\Debug\net5.0\Task_05.pdb
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.csproj.AssemblyReference.cache
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.AssemblyInfoInputs.cache
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.AssemblyInfo.cs
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.csproj.CoreCompileInputs.cache
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\ref\Task_05.dll
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.pdb
+E:\Work\Assignment\CS_Assignment_01\Assignment_01\Task_05\obj\Debug\net5.0\Task_05.genruntimeconfig.cache

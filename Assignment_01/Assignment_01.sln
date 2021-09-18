@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreach", "Foreach\Foreach.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{00832FEB-BC07-438C-BA55-0699523F008D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_04", "Task_04\Task_04.csproj", "{35A3A492-96AF-454C-9713-435C63DDD5B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_04", "Task_04\Task_04.csproj", "{35A3A492-96AF-454C-9713-435C63DDD5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_05", "Task_05\Task_05.csproj", "{3C838CE3-92FE-4DAC-ACF6-5B46E4B99152}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{35A3A492-96AF-454C-9713-435C63DDD5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35A3A492-96AF-454C-9713-435C63DDD5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35A3A492-96AF-454C-9713-435C63DDD5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C838CE3-92FE-4DAC-ACF6-5B46E4B99152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C838CE3-92FE-4DAC-ACF6-5B46E4B99152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C838CE3-92FE-4DAC-ACF6-5B46E4B99152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C838CE3-92FE-4DAC-ACF6-5B46E4B99152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,7 +9,12 @@ namespace Task_04
     public abstract class Item
     {   
         public double Price { get; set; }
-        public abstract void GetDiscount(double originalPrice);
+        public abstract double GetDiscount(double originalPrice);
+
+        public Item (double price)
+        {
+
+        }
         
     }
 }
