@@ -8,7 +8,7 @@ namespace Task_02
 {
     public class Student : User
     {
-        //public uint Fees { get; set; }
+        public uint Fees { get;set; }
         public Student()
         {
 

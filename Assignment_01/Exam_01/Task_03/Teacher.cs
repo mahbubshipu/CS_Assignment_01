@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_02
+namespace Task_03
 {
-    public class Teacher:User
+    public class Teacher : User
     {
-        public uint Salary { get; set; }
+        public int Salary { get; set; }
         public Teacher()
         {
 

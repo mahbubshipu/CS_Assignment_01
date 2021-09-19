@@ -4,16 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task_02
+namespace Task_03
 {
-    public class Teacher:User
+    public class Student : User
     {
-        public uint Salary { get; set; }
-        public Teacher()
+        public int Fees { get; set; }
+        public Student()
         {
 
         }
-        public Teacher(string name, uint age) : base(name, age)
+        public Student(String name, uint age) : base(name, age)
         {
 
         }
